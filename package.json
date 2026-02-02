@@ -1,0 +1,16 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "t": "node --test",
+    "tw": "node --test --watch"
+  },
+  "keywords": [],
+  "author": "Hadvix",
+  "license": "ISC",
+  "description": ""
+}
